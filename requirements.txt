@@ -1,2 +1,4 @@
-google-generativeai
 python-dotenv
+billboard.py
+boxoffice_api
+google-generativeai
